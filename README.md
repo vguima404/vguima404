@@ -3,7 +3,7 @@
  
 
 ![vguima404's GitHub stats](https://github-readme-stats.vercel.app/api?username=vguima404&show_icons=true&theme=tokyonight)
-<img align="right" alt="teste" width="379px" height="195px" style="padding-right:10px;" src="https://i.pinimg.com/736x/45/42/1d/45421d0cb0dc536b39dc9db33f1eb5ac.jpg"/>
+<img align="right" alt="Quadro minecraft" width="379px" height="200px" style="padding-right:20px;" src="https://i.pinimg.com/736x/11/d1/8e/11d18ef0e2a8e269dc5b507bdc6a48b0.jpg"/>
 
 ## Contacts
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:victorribeiro4004@gmail.com)
