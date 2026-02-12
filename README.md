@@ -3,6 +3,7 @@
  
 
 ![vguima404's GitHub stats](https://github-readme-stats-pied-omega.vercel.app/api?username=vguima404&show_icons=true&theme=tokyonight)
+<br/>
 ![Top Langs](https://github-readme-stats-pied-omega.vercel.app/api/top-langs/?username=vguima404&layout=compact&theme=tokyonight)
 
 <img align="right" alt="Quadro minecraft" width="200px" height="200px" style="padding-right:20px;" src="https://i.pinimg.com/736x/11/d1/8e/11d18ef0e2a8e269dc5b507bdc6a48b0.jpg"/>
